@@ -1654,7 +1654,7 @@ input, select, textarea {
   padding: 25px;
   width: 250px;
   text-align: center;
-  color: #fff;
+  color: transparent;
   text-decoration: none;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -1709,3 +1709,4 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
