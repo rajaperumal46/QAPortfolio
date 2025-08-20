@@ -1669,7 +1669,7 @@ input, select, textarea {
 .card i {
   font-size: 2.2rem;
   margin-bottom: 12px;
-  color: #ffcc00; /* icon color */
+  color: inherit; /* icon color */
 }
 
 .card h3 {
@@ -1716,5 +1716,6 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
