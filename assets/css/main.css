@@ -1650,8 +1650,6 @@ input, select, textarea {
 
 .card {
   background: transparent;   /* no background */
-  border: 1px solid #444;    /* subtle border */
-  border-radius: 10px;
   padding: 12px;
   width: 150px;
   text-align: center;
@@ -1662,7 +1660,6 @@ input, select, textarea {
 
 .card i {
   font-size: 1.6rem;
-  margin-bottom: 8px;
   color: inherit;            /* uses text color */
 }
 
@@ -1679,7 +1676,6 @@ input, select, textarea {
 .card:hover {
   transform: translateY(-6px);
   box-shadow: 0 6px 15px rgba(0,0,0,0.5);
-  border-color: #ffcc00;     /* highlight on hover */
 }
 
 		#footer .copyright {
@@ -1711,6 +1707,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
