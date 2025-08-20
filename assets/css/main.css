@@ -1675,7 +1675,7 @@ input, select, textarea {
 
 .card:hover {
   transform: translateY(-6px);
-  box-shadow: 0 6px 15px rgba(0,0,0,0.5);
+  /* box-shadow: 0 6px 15px rgba(0,0,0,0.5); */
 }
 
 		#footer .copyright {
@@ -1707,6 +1707,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
